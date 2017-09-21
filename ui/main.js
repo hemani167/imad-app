@@ -1,4 +1,1 @@
-console.log('Loaded!');
-tester();
-document.write("hemani");
-tester();
+console.log('Loaded!')
